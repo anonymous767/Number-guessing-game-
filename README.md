@@ -1,2 +1,2 @@
 # Number-guessing-game-
-It is a game where you have to guess a random number until you get it 
+It is a game where you have to guess a random number until you get it , its made with help of C 
